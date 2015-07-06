@@ -5,6 +5,10 @@ last updated 2015-07-06 by David Megginson
 All instructions in this document refer to the shared "Guinea IPC
 data" dropbox folder.
 
+Prerequisite: you must have the HXL scripts from
+https://github.com/HXLStandard/libhxl-python installed and running on
+your system.
+
 
 Workflow
 --------

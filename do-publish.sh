@@ -4,4 +4,4 @@
 ########################################################################
 
 cp ipc-merged.csv Public
-hxlclean -r ipc-merged.csv > Public/ipc-merged-notags.csv
+hxlclean --strip-tags ipc-merged.csv > Public/ipc-merged-notags.csv
