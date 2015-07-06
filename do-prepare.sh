@@ -15,7 +15,8 @@ function filter_file {
     sheet=$2
     outfile=Working/out$counter.csv
 
-    hxlselect --sheet $sheet -q org~. "$infile" > "$outfile"
+    # select and correct
+    hxlselect --sheet $sheet -q org~. "$infile" | hxlreplace -m corrections-table.csv > "$outfile"
     if [[ -s "$outfile" ]]; then
         echo Filtered sheet $sheet of $infile
         let counter=counter+1
@@ -36,7 +37,7 @@ find Tagged -iname '*.xlsx' -print0 -o -iname '*.xls' -print0 -o -iname '*.csv' 
 do
      filter_file "$file" 1
      filter_file "$file" 2
-                                                                                          done
+done
 
 exit
 

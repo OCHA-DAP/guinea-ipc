@@ -48,6 +48,10 @@ Workflow
 Files and folders
 -----------------
 
+corrections-table.csv
+  CSV file listing dynamic string substitutions for spelling mistakes,
+  etc. Extend this to add new corrections. Used by do-prepare.sh.
+
 do-prepare.sh
   Bash shell script for preparing the data to be merged.
 
