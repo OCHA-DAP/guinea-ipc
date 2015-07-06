@@ -1,0 +1,2 @@
+Préfecture,Sous-préfecture,Nom de la facilité,Facilité privée?,Latitude,Longitude,Nom du partenaire responsable de faire la formation,Date de formation,Durée de formation,Type de formation,Nombre de personnels formés,Contrôles suivis? (y/n),Jour (obsolète),Mois (obsolète),Année (obsolète)
+#adm2,#adm3,#loc,#status+private,#geo+lat,#geo+lon,#org,#date,#output+duration,#output+type,#output+num,#status+followups,#date+day,#date+month,#date+year
