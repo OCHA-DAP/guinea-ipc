@@ -3,9 +3,10 @@
 # Prepare clean HXL copies of all input sheets.
 ########################################################################
 
+CORRECTIONS=Inputs/corrections-table.csv
+
 # Counter for creating filenames
 counter=1000
-
 
 # Filter an input Excel file, and produce a normalised output with only
 # rows where an #org is present. If the filtering fails, then remove
@@ -16,7 +17,7 @@ function filter_file {
     outfile=Working/out$counter.csv
 
     # select and correct
-    hxlselect --sheet $sheet -q org~. "$infile" | hxlreplace -m corrections-table.csv > "$outfile"
+    hxlselect --sheet $sheet -q org~. "$infile" | hxlreplace -m $CORRECTIONS > "$outfile"
     if [[ -s "$outfile" ]]; then
         echo Filtered sheet $sheet of $infile
         let counter=counter+1

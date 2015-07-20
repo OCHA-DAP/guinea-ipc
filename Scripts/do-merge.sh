@@ -6,13 +6,15 @@
 #
 # Now append all of them into a single dataset.
 #
-cp merge-master.csv ipc-merged.csv
+cp Inputs/merge-master.csv ipc-merged.csv
 
 for file in Working/*.csv; do
     echo Merging $file
     hxlappend -x -a $file ipc-merged.csv > temp.csv
     mv temp.csv ipc-merged.csv
 done
+
+mv ipc-merged.csv Staged/
 
 exit
 
