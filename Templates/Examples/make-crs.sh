@@ -16,6 +16,7 @@ hxlclean --sheet 1 "$SOURCE" \
     | hxlrename -r adm2:adm2+name \
     | hxlrename -r adm3:adm3+name \
     | hxlrename -r loc:loc+name \
+    | hxladd -s status+private=public \
                 > Working/temp1.csv
 
 echo Processing private facilities ...
@@ -27,7 +28,7 @@ hxlclean --sheet 2 "$SOURCE" \
     | hxlrename -r adm2:adm2+name \
     | hxlrename -r adm3:adm3+name \
     | hxlrename -r loc:loc+name \
-    | hxladd -s status+private=o \
+    | hxladd -s status+private=prive \
                 > Working/temp2.csv
 
 echo Merging data ...
