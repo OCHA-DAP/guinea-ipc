@@ -1,0 +1,13 @@
+Severity,HXL hashtag,Data type,Required?,Allowed values,Allowed values link,Allowed values tag
+#valid_severity,#valid_tag,#valid_type,#valid_required,#valid_value+list,#valid_value+url,#valid_value+target_tag
+Error,#adm1+name,text,true,,Inputs/subprefectures.csv,adm1+name
+Error,#adm2+name,text,true,,Inputs/subprefectures.csv,adm2+name
+Error,#adm3+name,text,false,,Inputs/subprefectures.csv,adm3+name
+Error,#loc+name,text,true,,,
+Warning,#inneed+training,number,false,,,
+Warning,#status+private,text,false,o|n,,
+Error,#org+code,text,true,,,
+Warning,#date,date,false,,,
+Warning,#output+duration,number,false,,,
+Error,#output+type,text,true,,,
+Warning,#reached+trained,number,false,,,
