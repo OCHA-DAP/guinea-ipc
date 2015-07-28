@@ -10,27 +10,25 @@ echo Processing public facilities ...
 
 hxlclean --sheet 1 "$SOURCE" \
     | hxlselect -q 'org!~^$' \
-    | hxladd -b -s '#org+code=Jhpiego' \
+    | hxladd -b -s 'org+code=Jhpiego' \
     | hxlreplace -m $CORRECTIONS \
     | hxlreplace -m $REPLACEMENTS \
-    | hxlrename -r org:org+name \
     | hxlrename -r adm2:adm2+name \
     | hxlrename -r adm3:adm3+name \
     | hxlrename -r loc:loc+name \
+    | hxladd -b -s status+sector=public \
                 > Working/temp1.csv
 
 echo Processing private facilities ...
-
 hxlclean --sheet 2 "$SOURCE" \
     | hxlselect -q 'org!~^$' \
     | hxladd -b -s '#org+code=Jhpiego' \
     | hxlreplace --sheet 2 -m $CORRECTIONS \
     | hxlreplace -m $REPLACEMENTS \
-    | hxlrename -r org:org+name \
     | hxlrename -r adm2:adm2+name \
     | hxlrename -r adm3:adm3+name \
     | hxlrename -r loc:loc+name \
-    | hxladd -s status+private=o \
+    | hxladd -b -s status+sector=prive \
                 > Working/temp2.csv
 
 echo Merging data ...
@@ -41,7 +39,6 @@ cat "$TEMPLATE" \
     | hxlmerge -r -k adm2 -t adm1+name -m $PREFECTURES \
     | hxlsort \
                 > jhpiego-example.csv
-
 
 rm -rf Working/*
 
