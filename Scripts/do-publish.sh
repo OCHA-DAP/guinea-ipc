@@ -6,24 +6,38 @@
 STAGED=Staged
 PUBLIC=Public
 
-SOURCES="ipc-merged.csv ipc-coverage-prefecture.csv ipc-coverage-sousprefecture.csv"
+cp -v "$STAGED/ipc-merged.csv" "$PUBLIC"
+hxlclean --strip-tags "$PUBLIC/ipc-merged.csv" > "$PUBLIC/ips-merged-notags.csv"
 
-# Sanity check on Staged, first
-for source in $SOURCES; do
-    if [ ! -r $STAGED/$source ]; then
-        echo Missing $STAGED/$source
-        exit 2
-    fi
-done
+cd $PUBLIC
+echo "Generating facility counts ..."
 
-# OK, do the publishing run
-for source in $SOURCES; do
-    notags=`basename $source .csv`-notags.csv
-    echo Publishing $PUBLIC/$source
-    cp $STAGED/$source $PUBLIC
-    echo Publishing $PUBLIC/$notags
-    hxlclean --strip-tags $STAGED/$source > $PUBLIC/$notags
-done
+hxlcount -t adm1+name,adm1+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+                > facility-counts-adm1.csv
+
+hxlcount -t adm1+name,adm1+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+    | hxlclean --strip-tags \
+               > facility-counts-adm1-notags.csv
+
+hxlcount -t adm1+name,adm1+code,adm2+name,adm2+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+         > facility-counts-adm2.csv
+
+hxlcount -t adm1+name,adm1+code,adm2+name,adm2+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+    | hxlclean --strip-tags \
+               > facility-counts-adm2-notags.csv
+
+hxlcount -t adm1+name,adm1+code,adm2+name,adm2+code,adm3+name,adm3+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+         > facility-counts-adm3.csv
+
+hxlcount -t adm1+name,adm1+code,adm2+name,adm2+code,adm3+name,adm3+code ipc-merged.csv \
+    | hxlrename -r 'meta+count:Facilities#inneed+num' \
+    | hxlclean --strip-tags \
+               > facility-counts-adm3-notags.csv
 
 exit 0
 
