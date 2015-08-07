@@ -1,0 +1,5 @@
+Région,Préfecture,Sous-préfecture,Nom de l'Établissement,Nombre total de personnes ,Public ou privé?,Partenaire responsable de la formation,Date de la formation,Durée de la formation (jours),Type de formation,Nombre de personnes formées,Region p-code,Prefecture p-code,Subprefecture p-code
+#adm1+name,#adm2+name,#adm3+name,#loc+name,#inneed+training,#status+sector,#org+code,#date,#output+duration,#output+type,#reached+trained,#adm1+code,#adm2+code,#adm3+code
+Boke,Boke,,Diretion régioale de la santé et les instances qu'elle pilote,,,EF,2015-04-13,11,PCI Ebola,,GIN001,GIN001002,
+Labe,Labe,,Diretion régioale de la santé et les instances qu'elle pilote,,,EF,2015-04-27,11,PCI Ebola,,GIN006,GIN006002,
+Mamou,Mamou,,Diretion régioale de la santé et les instances qu'elle pilote,,,EF,2015-05-11,11,PCI Ebola,,GIN007,GIN007002,

@@ -1,0 +1,167 @@
+Région,Préfecture,Sous-préfecture,Nom de l'Établissement,Nombre total de personnes ,Public ou privé?,Partenaire responsable de la formation,Date de la formation,Durée de la formation (jours),Type de formation,Nombre de personnes formées,Region p-code,Prefecture p-code,Subprefecture p-code
+#adm1+name,#adm2+name,#adm3+name,#loc+name,#inneed+training,#status+sector,#org+code,#date,#output+duration,#output+type,#reached+trained,#adm1+code,#adm2+code,#adm3+code
+,,,AGBEF,,prive,Jhpiego,2015-04-19,,PCI Ebola,,,,
+Boke,Boke,,CS Port Nene,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,
+Boke,Boke,,CSR Correrah,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,
+Boke,Boke,,CSR Kayenguissa,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,
+Boke,Boke,,CSR Koulifanya,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,
+Boke,Boke,Bintimodia,CSR Bintoumodia,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100201
+Boke,Boke,Boke Ctre,Hopital Regional Boke,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100202
+Boke,Boke,Boke Ctre,LTO Boke,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100202
+Boke,Boke,Dabiss,CSR Dabiss,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100203
+Boke,Boke,Kamsar,CSR Kassapo,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100204
+Boke,Boke,Kamsar,Dispensaire CBG,,public,Jhpiego,2015-06-19,,PCI Ebola,,GIN001,GIN001002,GIN00100204
+Boke,Boke,Kamsar,Hopital Anaim,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100204
+Boke,Boke,Kamsar,PS/Kassapo,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100204
+Boke,Boke,Kanfarande,CSR Kanfarande,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100205
+Boke,Boke,Kolaboui,CSR Kolabounyi,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100206
+Boke,Boke,Kolaboui,PS/kolabounyi,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100206
+Boke,Boke,Malapouya,CSR Malapouya,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100207
+Boke,Boke,Sangaredi,CSA Sangaredi,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100208
+Boke,Boke,Sangaredi,PS/Sangaredi,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100208
+Boke,Boke,Sansale,CSR Sansale,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100209
+Boke,Boke,Tanene,CSR Tanene,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001002,GIN00100210
+Boke,Fria,,Cabossy,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,
+Boke,Fria,,Sabende,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,
+Boke,Fria,Fria Ctre,Aviation,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100503
+Boke,Fria,Fria Ctre,Hôpital Pechinet de Fria,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100503
+Boke,Fria,Fria Ctre,Hôpital Prefectoral de Fria,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100503
+Boke,Fria,Baguinet,Baguinet,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100501
+Boke,Fria,Banguigny,Banguigny,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100502
+Boke,Fria,Tormelin,Tormélin,,public,Jhpiego,,,PCI Ebola,,GIN001,GIN001005,GIN00100504
+Conakry,Conakry,,CMC Miniere,,public,Jhpiego,2015-02-28,,PCI Ebola,,GIN002,GIN002001,
+Conakry,Conakry,,Hopital National Donka,,public,Jhpiego,2015-03-21,,PCI Ebola,,GIN002,GIN002001,
+Conakry,Conakry,Dixinn,Jhpiego Guinee,,public,Jhpiego,2015-03-06,,PCI Ebola,,GIN002,GIN002001,GIN00200101
+Conakry,Conakry,Dixinn,OMS,,public,Jhpiego,2015-03-21,,PCI Ebola,,GIN002,GIN002001,GIN00200101
+Conakry,Conakry,Dixinn,ONG ACF,,public,Jhpiego,2015-03-06,,PCI Ebola,,GIN002,GIN002001,GIN00200101
+Conakry,Conakry,Dixinn,ONG Stop Palu,,public,Jhpiego,2015-03-06,,PCI Ebola,,GIN002,GIN002001,GIN00200101
+Conakry,Conakry,Kaloum,Hopital National Ignace Deen,,public,Jhpiego,2015-03-27,,PCI Ebola,,GIN002,GIN002001,GIN00200102
+Conakry,Conakry,Kaloum,Ministere de la sante,,public,Jhpiego,2015-03-06,,PCI Ebola,,GIN002,GIN002001,GIN00200102
+Conakry,Conakry,Matam,CMC Coleah,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN002,GIN002001,GIN00200103
+Conakry,Conakry,Matam,CMC Matam,,public,Jhpiego,2015-03-21,,PCI Ebola,,GIN002,GIN002001,GIN00200103
+Conakry,Conakry,Matam,Centre anti-tuberculeux de Matam,,public,Jhpiego,2015-03-27,,PCI Ebola,,GIN002,GIN002001,GIN00200103
+Conakry,Conakry,Ratoma,CMC Flamboyants,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN002,GIN002001,GIN00200105
+Conakry,Conakry,Ratoma,CMC Ratoma,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN002,GIN002001,GIN00200105
+Conakry,Conakry,Ratoma,CMS Jean Paul II,,public,Jhpiego,2015-03-21,,PCI Ebola,,GIN002,GIN002001,GIN00200105
+Conakry,Conakry,Ratoma,Direction de la sante de la ville de Conakry,,public,Jhpiego,2015-03-06,,PCI Ebola,,GIN002,GIN002001,GIN00200105
+Conakry,Conakry,Ratoma,Hopital National Sino-Guinee,,public,Jhpiego,2015-03-21,,PCI Ebola,,GIN002,GIN002001,GIN00200105
+Faranah,Kissidougou,,Clinique Privee,,prive,Jhpiego,2015-01-30,,PCI Ebola,,GIN003,GIN003004,
+Faranah,Kissidougou,Albadariah,CSR Albadariah,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300401
+Faranah,Kissidougou,Albadariah,PS/Albadariah,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300401
+Faranah,Kissidougou,Banama,CSR Banama,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300402
+Faranah,Kissidougou,Banama,PS/Banama,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300402
+Faranah,Kissidougou,Bardou,CSR Bardou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300403
+Faranah,Kissidougou,Bardou,PS Bardou,,public,Jhpiego,2015-05-18,,PCI Ebola,,GIN003,GIN003004,GIN00300403
+Faranah,Kissidougou,Beindou,CSR Beindou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300404
+Faranah,Kissidougou,Beindou,PS/Beindou,,public,Jhpiego,2015-02-12,,PCI Ebola,,GIN003,GIN003004,GIN00300404
+Faranah,Kissidougou,Fermessadou,CSR Fermessadou,,public,Jhpiego,2015-02-12,,PCI Ebola,,GIN003,GIN003004,GIN00300405
+Faranah,Kissidougou,Fermessadou,PS/Fermessadou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300405
+Faranah,Kissidougou,Firawa,CSR Firawa,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300406
+Faranah,Kissidougou,Firawa,PS/Firawa,,public,Jhpiego,2015-02-05,,PCI Ebola,,GIN003,GIN003004,GIN00300406
+Faranah,Kissidougou,Gbangbadou,CSR Gbangbadou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300407
+Faranah,Kissidougou,Kissidougou Ctre,CSU Dar es salam,,public,Jhpiego,2015-04-20,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,CSU Hermakono,,public,Jhpiego,2015-04-20,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,CSU Madina,,public,Jhpiego,2015-04-20,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,CSU Saraman,,public,Jhpiego,2015-01-22,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,CSU limanya,,public,Jhpiego,2015-05-18,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,Hopital prefectoral Kissidougou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kissidougou Ctre,PS/Limanya,,public,Jhpiego,2015-01-30,,PCI Ebola,,GIN003,GIN003004,GIN00300408
+Faranah,Kissidougou,Kondiadou,CSR Kondiadou,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300409
+Faranah,Kissidougou,Kondiadou,PS/Kondiadou,,public,Jhpiego,2015-02-07,,PCI Ebola,,GIN003,GIN003004,GIN00300409
+Faranah,Kissidougou,Manfran,CSR Manfran,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300410
+Faranah,Kissidougou,Manfran,PS/Manfran,,public,Jhpiego,2015-02-13,,PCI Ebola,,GIN003,GIN003004,GIN00300410
+Faranah,Kissidougou,Sangardo,CSR Sangardo,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300411
+Faranah,Kissidougou,Sangardo,PS/Sangardo,,public,Jhpiego,2015-02-12,,PCI Ebola,,GIN003,GIN003004,GIN00300411
+Faranah,Kissidougou,Yende Millimou,CSR Yende,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300412
+Faranah,Kissidougou,Yende Millimou,PS/Yende,,public,Jhpiego,2015-02-12,,PCI Ebola,,GIN003,GIN003004,GIN00300412
+Faranah,Kissidougou,Yombiro,CSR Yombiro,,public,Jhpiego,2015-05-22,,PCI Ebola,,GIN003,GIN003004,GIN00300413
+Faranah,Kissidougou,Yombiro,PS/Yombiro,,public,Jhpiego,2015-02-05,,PCI Ebola,,GIN003,GIN003004,GIN00300413
+Kindia,Forecariah,,CSR Bassia,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,
+Kindia,Forecariah,,CSR Bokaria,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,
+Kindia,Forecariah,,PS/Bassia,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,
+Kindia,Forecariah,,PS/Bokaria,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,
+Kindia,Forecariah,,Poste Frontaliere Blangban,,public,Jhpiego,2015-03-19,,PCI Ebola,,GIN005,GIN005003,
+Kindia,Forecariah,Benty,CSR Benty,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500302
+Kindia,Forecariah,Benty,PS/Benty,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500302
+Kindia,Forecariah,Farmoriah,CSR Farmoriah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500303
+Kindia,Forecariah,Farmoriah,Infirmerie de Camp de Farmoriah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500303
+Kindia,Forecariah,Farmoriah,PS/Farmoriah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500303
+Kindia,Forecariah,Forecariah Ctre,CSU Forecariah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500304
+Kindia,Forecariah,Forecariah Ctre,Hopital prefectoral Forecariah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500304
+Kindia,Forecariah,Forecariah Ctre,Infirmerie de Camp de Forecariah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500304
+Kindia,Forecariah,Kaback,CSR Kaback,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500305
+Kindia,Forecariah,Kakossa,CSR Kakossa,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500306
+Kindia,Forecariah,Kakossa,PS/ kakossa,,public,Jhpiego,2015-01-13,,PCI Ebola,,GIN005,GIN005003,GIN00500306
+Kindia,Forecariah,Maferinya,CNFRSR Maferinya,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500308
+Kindia,Forecariah,Maferinya,CSR Maferinya,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500308
+Kindia,Forecariah,Maferinya,PS/Maferinya,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500308
+Kindia,Forecariah,Moussayah,CSR MoussayaH,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500309
+Kindia,Forecariah,Moussayah,PS/Moussayah,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500309
+Kindia,Forecariah,Sikhourou,CSR Sikhourou,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500310
+Kindia,Forecariah,Sikhourou,PS/Sikhourou,,public,Jhpiego,2015-03-28,,PCI Ebola,,GIN005,GIN005003,GIN00500310
+Kindia,Kindia,,CSR Kenende,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,
+Kindia,Kindia,Bangouya,CSR Bangouya,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500401
+Kindia,Kindia,Bangouya,PS/Bangouya,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500401
+Kindia,Kindia,Damakania,CSR Damakania,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500402
+Kindia,Kindia,Damakania,LTO Damakania,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500402
+Kindia,Kindia,Friguiagbe,CSR Friguiagbe,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500403
+Kindia,Kindia,Friguiagbe,PS Friguiagbe,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500403
+Kindia,Kindia,Kindia Ctre,CSU Bibane,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,CSU Cacia,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,CSU Manquepas,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,CSU Wondy,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,DPS Kinida,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,DRS Kindia,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,Ecole National de sante de Kindia,,public,Jhpiego,2015-05-01,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,Hopital regional Kindia,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kindia Ctre,PS/Wondy,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500404
+Kindia,Kindia,Kolente,CSR Kolente,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500405
+Kindia,Kindia,Kolente,PS/Kolente,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500405
+Kindia,Kindia,Madina oula,CSR Mandina Oula,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500406
+Kindia,Kindia,Madina oula,PS/Madina Oula,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500406
+Kindia,Kindia,Mambia,CS Mambia,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500407
+Kindia,Kindia,Mambia,PS/Mambia,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500407
+Kindia,Kindia,Molota,CSR Molota,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500408
+Kindia,Kindia,Molota,PS/Molota,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500408
+Kindia,Kindia,Samaya,CSR Samaya,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500409
+Kindia,Kindia,Samaya,PS/Samaya,,public,Jhpiego,2015-05-24,,PCI Ebola,,GIN005,GIN005004,GIN00500409
+Kindia,Kindia,Sougueta,CSR Sougueta,,public,Jhpiego,2015-05-31,,PCI Ebola,,GIN005,GIN005004,GIN00500410
+Kindia,Kindia,Sougueta,PS/Sougueta,,public,Jhpiego,2015-05-17,,PCI Ebola,,GIN005,GIN005004,GIN00500410
+Kindia,Telimele,Bourouwal,Bourouwal,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500501
+Kindia,Telimele,Daramagnaky,Daramagnaky,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500502
+Kindia,Telimele,Gougoudje,Gougoudjé,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500503
+Kindia,Telimele,Koba,Koba (T),,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500504
+Kindia,Telimele,Kollet,Kollet (TE),,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500505
+Kindia,Telimele,Konsotami,Konsotami,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500506
+Kindia,Telimele,Missira,Missira (T),,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500507
+Kindia,Telimele,Santou,Santou,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500508
+Kindia,Telimele,Sarekali,Sarékaly,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500509
+Kindia,Telimele,Sinta,Sinta,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500510
+Kindia,Telimele,Sogolon,Sogolon,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500511
+Kindia,Telimele,Tarihoye,Tarihoye,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500512
+Kindia,Telimele,Telemele Ctre,Hôpital préfectoral de Telemele,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500513
+Kindia,Telimele,Telemele Ctre,Télimélé-Centre,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500513
+Kindia,Telimele,Thionthian,Thionthian,,public,Jhpiego,,,PCI Ebola,,GIN005,GIN005005,GIN00500514
+Nzerekore,Beyla,Beyla Ctre,CSU Diakolidou,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800101
+Nzerekore,Beyla,Beyla Ctre,Hopital prefectoral Beyla,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800101
+Nzerekore,Beyla,Boola,CSR Boola,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800102
+Nzerekore,Beyla,Diaraguerela,CSR Diaragberela,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800103
+Nzerekore,Beyla,Diaraguerela,PS/Diaguerala,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800103
+Nzerekore,Beyla,Diassodou,CSR Diassodou,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800104
+Nzerekore,Beyla,Fouala,CSR Fouala,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800105
+Nzerekore,Beyla,Gbakedou,CSR Gbakedou,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800106
+Nzerekore,Beyla,Gbakedou,CSR Sobakono,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800106
+Nzerekore,Beyla,Gbessoba,CSR Gbessoba,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800107
+Nzerekore,Beyla,Gbessoba,PS/Gbessoba,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800107
+Nzerekore,Beyla,Karala,CSR Karala,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800108
+Nzerekore,Beyla,Koumandou,CSR Koumandou,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800109
+Nzerekore,Beyla,Koumandou,PS/Koumandou,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800109
+Nzerekore,Beyla,Moussadou,CSR Moussadou,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800110
+Nzerekore,Beyla,Nionsomoridou,CSR Nionsomoridou,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800111
+Nzerekore,Beyla,Sakourala,CSR Sokourala,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800112
+Nzerekore,Beyla,Sakourala,PS/Sokourala,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800112
+Nzerekore,Beyla,Samana,CSR Samana,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800113
+Nzerekore,Beyla,Samana,PS/Samana,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800113
+Nzerekore,Beyla,Sinko,CMC Sinko,,public,Jhpiego,2015-04-22,,PCI Ebola,,GIN008,GIN008001,GIN00800114
+Nzerekore,Beyla,Sinko,CSR Sinko,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800114
+Nzerekore,Beyla,Sinko,PS/Sinko,,public,Jhpiego,2015-03-15,,PCI Ebola,,GIN008,GIN008001,GIN00800114

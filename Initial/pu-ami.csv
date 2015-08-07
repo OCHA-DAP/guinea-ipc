@@ -1,0 +1,99 @@
+Région,Préfecture,Sous-préfecture,Nom de l'Établissement,Nombre total de personnes ,Public ou privé?,Partenaire responsable de la formation,Date de la formation,Durée de la formation (jours),Type de formation,Nombre de personnes formées,Region p-code,Prefecture p-code,Subprefecture p-code
+#adm1+name,#adm2+name,#adm3+name,#loc+name,#inneed+training,#status+sector,#org+code,#date,#output+duration,#output+type,#reached+trained,#adm1+code,#adm2+code,#adm3+code
+Kindia,Coyah,Coyah Ctre,Poste de santé Somayah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500101
+Kindia,Coyah,Coyah Ctre,Poste de santé Somayah,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500101
+Kindia,Coyah,Coyah Ctre,Poste de santé Somayah,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500101
+Kindia,Coyah,Kouria,Poste de Santé Kouriah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de Santé Kouriah,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de Santé Kouriah,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Kolakhoure,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Kolakhoure,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Kolakhoure,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Moriakhory,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Moriakhory,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Poste de sante Moriakhory,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Kouria,Taadi,,public,PU-AMI,,,,,GIN005,GIN005001,GIN00500102
+Kindia,Coyah,Wonkifong,Poste de santé Petty-Centre,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Petty-Centre,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Petty-Centre,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Deneya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Deneya,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Deneya,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kendoumaya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kendoumaya,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kendoumaya,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kiriya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kiriya,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kiriya,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kounsouta,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kounsouta,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kounsouta,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kouyéya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kouyéya,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Kouyéya,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Mangata,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Mangata,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Mangata,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Tambayah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Tambayah,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Tambayah,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Toguiron,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Toguiron,,public,PU-AMI,,,Triage,,GIN005,GIN005001,GIN00500104
+Kindia,Coyah,Wonkifong,Poste de santé Toguiron,,public,PU-AMI,,,WASH,,GIN005,GIN005001,GIN00500104
+Kindia,Dubreka,Badi,Poste de santé Tonton,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500201
+Kindia,Dubreka,Badi,Poste de santé Tonton,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500201
+Kindia,Dubreka,Badi,Poste de santé Tonton,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500201
+Kindia,Dubreka,Badi,Poste de santéMaléah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,
+Kindia,Dubreka,Badi,Poste de santéMaléah,,public,PU-AMI,,,Triage,,GIN005,GIN005002,
+Kindia,Dubreka,Badi,Poste de santéMaléah,,public,PU-AMI,,,WASH,,GIN005,GIN005002,
+Kindia,Dubreka,Dubreka Ctre,Poste Santé Baïlo-Bayah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste Santé Baïlo-Bayah,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste Santé Baïlo-Bayah,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Béréiré,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Béréiré,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Béréiré,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Madina,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Madina,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Madina,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Négueyah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Négueyah,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Négueyah,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Töbolon,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Töbolon,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Dubreka Ctre,Poste de santé Töbolon,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500202
+Kindia,Dubreka,Falessade,Poste de santé Ninguéty,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500203
+Kindia,Dubreka,Falessade,Poste de santé Ninguéty,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500203
+Kindia,Dubreka,Falessade,Poste de santé Ninguéty,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500203
+Kindia,Dubreka,Khorira,Poste de santé Gbantama,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Khorira,Poste de santé Gbantama,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Khorira,Poste de santé Gbantama,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Khorira,Poste de santé Yorokoguéah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Khorira,Poste de santé Yorokoguéah,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Khorira,Poste de santé Yorokoguéah,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500204
+Kindia,Dubreka,Ouassou,Poste de santé Khountoun,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Khountoun,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Khountoun,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Koubia,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Koubia,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Koubia,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Tafory Soso,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Tafory Soso,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Tafory Soso,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Yafraya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Yafraya,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Ouassou,Poste de santé Yafraya,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500205
+Kindia,Dubreka,Tanene,Poste de santé Kenendelory,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Kenendelory,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Kenendelory,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Kondéya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Kondéya,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Kondéya,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Konfonya,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Konfonya,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tanene,Poste de santé Konfonya,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500208
+Kindia,Dubreka,Tondon,Poste de santé Kahel,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500207
+Kindia,Dubreka,Tondon,Poste de santé Kahel,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500207
+Kindia,Dubreka,Tondon,Poste de santé Kahel,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500207
+Kindia,Dubreka,Tondon,Poste de santé Simbarayah,,public,PU-AMI,,,PCI Ebola,,GIN005,GIN005002,GIN00500207
+Kindia,Dubreka,Tondon,Poste de santé Simbarayah,,public,PU-AMI,,,Triage,,GIN005,GIN005002,GIN00500207
+Kindia,Dubreka,Tondon,Poste de santé Simbarayah,,public,PU-AMI,,,WASH,,GIN005,GIN005002,GIN00500207

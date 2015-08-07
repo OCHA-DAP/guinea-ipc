@@ -1,13 +1,17 @@
 Severity,HXL hashtag,Data type,Required?,Allowed values,Allowed values link,Allowed values tag,Error message
 #valid_severity,#valid_tag,#valid_type,#valid_required,#valid_value+list,#valid_value+url,#valid_value+target_tag,#description
-error,#adm1+name,text,true,,Inputs/subprefectures.csv,adm1+name,
-error,#adm2+name,text,true,,Inputs/subprefectures.csv,adm2+name,
-error,#adm3+name,text,false,,Inputs/subprefectures.csv,adm3+name,
-error,#loc+name,text,true,,,,
-warning,#inneed+training,number,true,,,,
-warning,#status+private,text,false,o|n,,,
-error,#org+code,text,true,,,,
-warning,#date,date,true,,,,
-warning,#output+duration,number,true,,,,
+error,#adm1+name,text,true,,Inputs/subprefectures.csv,adm1+name,Region name not in standard spelling.
+error,#adm2+name,text,true,,Inputs/subprefectures.csv,adm2+name,Prefecture name not in standard spelling.
+error,#adm3+name,text,true,,Inputs/subprefectures.csv,adm3+name,Subprefecture name not in standard spelling.
+warning,#loc+name,text,false,,Inputs/facilities.csv,loc+name,Unrecognised facility name
+warning,#inneed+training,number,false,,,,Must be a number.
+warning,#status+sector,text,true,,Inputs/sectors.csv,status+sector,Unrecognised sector
+error,#org+code,text,true,,Inputs/orgs.csv,org+code,Unrecognised partner abbreviation.
+error,#date,date,,,,,Date must be YYYY-MM-DD.
+info,#date,date,true,,,,Won't count without a date.
+error,#output+duration,number,,,,,Must be a number.
+info,#output+duration,number,true,,,,Expect number of people trained.
 error,#output+type,text,true,,,,The type of training was not provided.
-warning,#reached+trained,number,true,,,,
+info,#output+type,text,false,,Inputs/types.csv,,Unrecognised training type
+error,#reached+trained,number,false,,,,Expect number.
+warning,#reached+trained,number,true,,,,Should provide number of people trained.
