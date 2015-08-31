@@ -1,0 +1,26 @@
+Type de formation,Nom de la région,P-code de la région,Total des établissements,Établissements formées
+#output+type,#adm1+name,#adm1+code,#inneed,#reached
+PCI Ebola,Boke,GIN001,154,33
+PCI Ebola,Conakry,GIN002,376,264
+PCI Ebola,Faranah,GIN003,147,31
+PCI Ebola,Kankan,GIN004,189,16
+PCI Ebola,Kindia,GIN005,274,76
+PCI Ebola,Labe,GIN006,141,1
+PCI Ebola,Mamou,GIN007,80,1
+PCI Ebola,Nzerekore,GIN008,431,243
+Triage,Boke,GIN001,154,0
+Triage,Conakry,GIN002,376,0
+Triage,Faranah,GIN003,147,0
+Triage,Kankan,GIN004,189,0
+Triage,Kindia,GIN005,274,0
+Triage,Labe,GIN006,141,0
+Triage,Mamou,GIN007,80,0
+Triage,Nzerekore,GIN008,431,0
+WASH,Boke,GIN001,154,8
+WASH,Conakry,GIN002,376,0
+WASH,Faranah,GIN003,147,0
+WASH,Kankan,GIN004,189,0
+WASH,Kindia,GIN005,274,0
+WASH,Labe,GIN006,141,0
+WASH,Mamou,GIN007,80,0
+WASH,Nzerekore,GIN008,431,1
