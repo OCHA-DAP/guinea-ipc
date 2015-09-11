@@ -1,10 +1,15 @@
 Variant spelling,Standard spelling,HXL tag
 #x_pattern,#x_substitution,#x_tag
 TDH,TdH,org+code
+EF,Expertise France,org+code
 EXPERTISE FRANCE,Expertise France,org+code
+PU AMI,PU-AMI,org+code
 pci ebola,PCI Ebola,output+type
 pci + pci ebola,PCI Ebola,output+type
 pci,PCI Ebola,output+type
+IMC,,loc+name
+5.0,5,output+duration
+2.0,2,output+duration
 Boké,Boke,adm2+name
 Dubréka,Dubreka,adm2+name
 Labé,Labe,adm2+name

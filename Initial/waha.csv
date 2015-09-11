@@ -1,7 +1,0 @@
-Région,Préfecture,Sous-préfecture,Nom de l'Établissement,Nombre total de personnes ,Public ou privé?,Partenaire responsable de la formation,Date de la formation,Durée de la formation (jours),Type de formation,Nombre de personnes formées,Region p-code,Prefecture p-code,Subprefecture p-code
-#adm1+name,#adm2+name,#adm3+name,#loc+name,#inneed+training,#status+sector,#org+code,#date,#output+duration,#output+type,#reached+trained,#adm1+code,#adm2+code,#adm3+code
-Conakry,Conakry,Dixinn,CMC Minière,,public,WAHA,,,PCI Ebola,,GIN002,GIN002001,GIN00200101
-Conakry,Conakry,Dixinn,CMC Minière,,public,WAHA,,,PCI Ebola,,GIN002,GIN002001,GIN00200101
-Conakry,Conakry,Kaloum,Hôpital National Ignace Deen,,public,WAHA,,,PCI Ebola,,GIN002,GIN002001,GIN00200102
-Conakry,Conakry,Kaloum,Hôpital National Ignace Deen,,public,WAHA,,,Triage,,GIN002,GIN002001,GIN00200102
-Kindia,Forecariah,Forecariah Ctre,Hôpital Préfectoral Forécariah Centre,,public,WAHA,,,,,GIN005,GIN005003,GIN00500304
