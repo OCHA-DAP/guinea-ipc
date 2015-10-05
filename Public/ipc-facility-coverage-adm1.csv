@@ -4,23 +4,23 @@ PCI Ebola,Boke,GIN001,240,146
 PCI Ebola,Conakry,GIN002,386,274
 PCI Ebola,Faranah,GIN003,208,93
 PCI Ebola,Kankan,GIN004,189,16
-PCI Ebola,Kindia,GIN005,322,136
+PCI Ebola,Kindia,GIN005,322,166
 PCI Ebola,Labe,GIN006,141,1
 PCI Ebola,Mamou,GIN007,80,1
-PCI Ebola,Nzerekore,GIN008,438,250
+PCI Ebola,Nzerekore,GIN008,437,249
 Triage,Boke,GIN001,240,14
 Triage,Conakry,GIN002,386,2
 Triage,Faranah,GIN003,208,0
 Triage,Kankan,GIN004,189,0
-Triage,Kindia,GIN005,322,2
+Triage,Kindia,GIN005,322,32
 Triage,Labe,GIN006,141,0
 Triage,Mamou,GIN007,80,0
-Triage,Nzerekore,GIN008,438,0
+Triage,Nzerekore,GIN008,437,0
 WASH,Boke,GIN001,240,10
 WASH,Conakry,GIN002,386,1
 WASH,Faranah,GIN003,208,0
 WASH,Kankan,GIN004,189,0
-WASH,Kindia,GIN005,322,1
+WASH,Kindia,GIN005,322,2
 WASH,Labe,GIN006,141,0
 WASH,Mamou,GIN007,80,0
-WASH,Nzerekore,GIN008,438,1
+WASH,Nzerekore,GIN008,437,1

@@ -35,11 +35,10 @@ cat Templates/PCI\ modele\ 2015-08-07.xlsx \
     | hxlmerge -r -k adm1+name,adm2+name,adm3+name -t adm1+code,adm2+code,adm3+code -m Inputs/subprefectures.csv  \
     | hxlmerge -r -k adm1+name,adm2+name -t adm1+code,adm2+code -m Inputs/subprefectures.csv  \
     | hxlmerge -r -k adm1+name -t adm1+code -m Inputs/subprefectures.csv \
+    | hxlclean -W \
                > Staged/ipc-merged.csv
 
-echo "\nDone merge.  Changes:\n"
-
-diff -u Staged/ipc-merged.csv Public/ipc-merged.csv
+echo "\nDone merge.\n"
 
 exit 0
 
